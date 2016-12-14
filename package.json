@@ -1,0 +1,23 @@
+{
+  "name": "functional_programming",
+  "version": "1.0.0",
+  "description": "functional programming exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusmellis89/functional_programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusmellis89/functional_programming/issues"
+  },
+  "homepage": "https://github.com/marcusmellis89/functional_programming#readme",
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "ramda": "^0.22.1"
+  }
+}
