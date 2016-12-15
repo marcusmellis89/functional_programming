@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/marcusmellis89/functional_programming#readme",
   "dependencies": {
+    "accounting": "^0.4.1",
     "lodash": "^4.17.2",
     "ramda": "^0.22.1"
   }
